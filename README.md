@@ -83,6 +83,4 @@ chmod +x /etc/init.d/upcnet
 
 ## 版权信息
 
-Author: EndangeredFish
-Email: im.EndangeredFish@gmail.com
-LICENSE: AGPLv3
+基于 https://github.com/EndangeredF1sh/UPCNet/tree/bash 修改的分支
